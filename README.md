@@ -1,6 +1,6 @@
 # Flask Blog
 
-A full-featured blog application built with Flask, following Corey Schafer's Flask tutorial structure.
+A full-featured blog application built with Flask.
 
 ## Features
 
